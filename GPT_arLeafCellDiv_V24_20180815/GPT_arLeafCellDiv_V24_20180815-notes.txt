@@ -1,0 +1,94 @@
+This is a GFtbox model used in the paper "Spatiotemporal coordination of cell division and growth during organ morphogenesis" by Samantha Fox et al, to appear in PLoS Biology, October 2018.
+
+GFtbox is a Matlab program available from Sourceforge at https://sourceforge.net/projects/gftbox/files/
+
+====
+
+Fig 8. Model regulatory network and output.
+
+(A) Schematic showing how spatiotemporal regulatory factors (PGRAD, MID, LATE, LAM, PMF) act on
+473 components of specified growth (Kpar, Kper) and cell division (CDIV and Ā) to influence resultant growth, cell
+474 division, cell size, and organ shape and size. Magenta arrow shows an optional feedback on growth rate from
+475 cell size. Cyan arrow shows feedback from cell size to division (B-D) Model regulatory networks for early stages
+476 of leaf development (124 – 182h).
+
+(B) Growth regulatory network (KRN). Epidermal specific interactions are
+denoted with red lines, subepidermal specific in light blue, and interactions common to both models in black.
+
+(C) The regulatory network for competence to divide (CDIV).
+
+(D) The division threshold (Ā) regulatory network.
+
+(E-H) Model output leaves (left to right), at 115h, 132h, 140h, 147h, 156h, 164h, 178h, for the (E-F)
+480 subepidermis model and (G-H) epidermis model.
+
+(E) Area and pattern of v-cells (heat map) with intercellular spaces (white).
+
+(F) v-cells that were competent to divide (green), and either executed division during the
+interval (light green), or divided in a later interval (dark green). Cells that did not divide (white).
+
+(G) Area and pattern of v-cells (heat map).
+
+(H) v-cells that were competent to divide (green), and either executed division
+during the interval (light green), or divided in a later interval (dark green). Cells that did not divide (white).
+
+
+
+
+
+
+Fig 9. Cell areas, numbers and leaf sizes at later developmental stages
+
+(A) Cell areas for spch leaf at later stages (earlier stages shown in S4 Figure). Leaf widths (left to right) 1.1, 1.4,
+1.8, 2.1 and 2.8 mm. Leaf outline indicated by dotted black line. Grey boxes are aligned to the petiole-lamina
+boundary and extend to 150 or 300 μm.
+
+(B) Model output at equivalent stages to experimental data (model times 201h, 219h, 243h, 264h and 412h).
+
+(C-I) Limit-free spch epidermal model outputs at maturity.
+
+(C) Wild type.
+
+(D) Cell division threshold increased by 85 μm2.
+
+(E) Cell division threshold decreased by 85 μm2.
+
+(F) Specified growth rate reduced by 5%.
+
+(G) Specified growth rate increased by 5%.
+
+(H) LATE comes on 6h earlier.
+
+(I) LATE comes on 6h later.
+
+(J-P) Limiting cell size spch epidermal model outputs at maturity.
+
+(J) Wild type.
+
+(K) Cell division threshold increased by 85 μm2.
+
+(L) Cell division threshold decreased by 85 μm2.
+
+(M) Specified growth rate reduced by 5%.
+
+(N) Specified growth increased by 5%.
+
+(O) LATE comes on 6h earlier.
+
+(P) LATE 605 comes on 6h later.
+
+Number of cells (# Cells), average cell area (μ CA) in μm2 and leaf area (Leaf A) in mm2 are
+606 shown for each model. Percentage values for mutants show relative difference to feedback-free (C) and cell-
+607 feedback (J) wild-type models. Scale bars 1 mm.
+
+
+
+Fig 10 later stage mature spch epidermis model
+
+spch on plates. As 9B with phys ratio 0.55 and growth rates 0.6
+
+
+
+Fig S 13C spch in chamber tuned to lower growth rate at later stages
+
+9B with phys ratio 0.75

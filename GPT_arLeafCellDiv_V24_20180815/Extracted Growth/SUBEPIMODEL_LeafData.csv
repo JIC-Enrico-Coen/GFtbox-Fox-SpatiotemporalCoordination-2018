@@ -1,0 +1,3 @@
+realtime,LeafArea,LeafWidth,LeafLength,late,plam,numberOfCells,meanCellArea,numberOfCellInCDIV,meanCellAreaInCDIV,cellAreaInCDIV,numberOfCellOutCDIV,meanCellAreaOutCDIV,cellAreaOutCDIV
+66,0.0072216,0.084,0,0.0235,116,6.2366e-05,0,NaN,0,116,6.2366e-05,0.0072345
+67,0.0072216,0.084,0,0.0235,116,6.2366e-05,116,6.2366e-05,0.0072345,0,NaN,0
